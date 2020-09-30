@@ -11,7 +11,7 @@ listofsongs = []
 realnames = []
 
 v = StringVar()
-songlabel = Label(root,textvariable=v,width=35)
+songlabel = Label(root,textvariable = v,width = 35)
 
 index = 0
 
